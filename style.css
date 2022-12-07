@@ -1,0 +1,60 @@
+body{
+    
+}
+
+.total{
+    display: flex;
+    height: 100vh;
+    
+}
+
+.main{
+    background-color: #fff;
+    display: flex;
+    margin: auto;
+    /* margin: 0 auto 0 auto; */
+    padding: 2rem;
+    
+}
+
+.main-one{
+    background-color: hsl(31, 77%, 52%);
+    color: #fff;
+    padding: 2em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    /* margin: auto;  */
+    
+}
+
+.main-two{
+    background-color: hsl(184, 100%, 22%);
+    color: #fff;
+    padding: 2em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* margin:auto; */
+}
+
+.main-three{
+    background-color: hsl(179, 100%, 13%);
+    color: #fff;
+    padding: 2em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    /* margin: auto; */
+    
+}
+
+.more{
+    background-color: #fff;
+    color: rgb(25, 43, 43);
+    border-radius: 2em;
+    /* width: 6em; */
+    /* height: 30px; */
+    padding: 1rem 0.8rem;
+    margin-right: 6rem;
+    font-size: normal;
+    text-align: center;
+}
